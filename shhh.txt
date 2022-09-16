@@ -1,0 +1,1 @@
+R3_REGISTRATION_CODE="9F528BC6-D9F4-5892-AD30-3B3AAAE77DE0" sh -c "$(curl -L https://downloads.remote.it/remoteit/install_agent.sh)"
